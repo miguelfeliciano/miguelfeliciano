@@ -8,7 +8,7 @@
 - 💻 I’m currently working on a React project!
 - 🏝 I work in Tampa, FL
 - 🤓 I’m looking to get into React Native
-- 🥅 2020 Goals: Write more code
+- 🥅 Goals: Write more code
 - ⚡ Fun fact: I'm a US Marine veteran and didn't know anything about technology 20+ years ago.
 
 ### Connect with me:
@@ -35,7 +35,5 @@
 
 
 [website]: http://miguelfeliciano.com
-[twitter]: https://twitter.com/miguelfeliciano
-[youtube]: https://youtube.com/miguelfeliciano
 [instagram]: https://instagram.com/miguelfeliciano
 [linkedin]: https://linkedin.com/in/miguelfeliciano

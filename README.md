@@ -3,13 +3,13 @@
 [![Website](https://img.shields.io/website?label=miguelfeliciano.com&style=for-the-badge&url=http%3A%2F%2Fmiguelfeliciano.com)](http://miguelfeliciano.com)
 
 
-## I'm a Husband, Father, Developer, and Real Estate Professional!
+## I'm a Husband, Father, Developer, and Whiskey Drinker!
 
-- 💻 I’m currently working on a React project!
+- 💻 I’m currently working on several React projects!
 - 🏝 I work in Tampa, FL
 - 🤓 I’m looking to get into React Native
-- 🥅 Goals: Write more code
-- ⚡ Fun fact: I'm a US Marine veteran and didn't know anything about technology 20+ years ago.
+- 🥅 Goals: Write a SAAS app
+- ⚡ Fun fact: I'm a US Marine veteran and didn't know anything about computers 20+ years ago.
 
 ### Connect with me:
 

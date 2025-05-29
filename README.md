@@ -1,6 +1,8 @@
 ### Hey, I'm Miguel – aka [miguelfeliciano][website] 👑
 
-[![Website](https://img.shields.io/website?label=miguelfeliciano.com&style=for-the-badge&url=http%3A%2F%2Fmiguelfeliciano.com)](http://miguelfeliciano.com)
+[![Website](https://img.shields.io/website?label=miguelfeliciano.com&style=for-the-badge&url=https%3A%2F%2Fmiguelfeliciano.com)](https://miguelfeliciano.com)
+
+[![Website](https://img.shields.io/website?label=scanstack.app&style=for-the-badge&url=https%3A%2F%2Fscanstack.app)](https://scanstack.app)
 
 ## 💥 Husband. Father. Dev. Builder of Freedom. Whiskey-Optimized.
 

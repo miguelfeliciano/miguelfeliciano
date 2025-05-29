@@ -1,39 +1,47 @@
-### Hi there, I'm Miguel - aka [miguelfeliciano][website] 👋
+### Hey, I'm Miguel – aka [miguelfeliciano][website] 👑
 
 [![Website](https://img.shields.io/website?label=miguelfeliciano.com&style=for-the-badge&url=http%3A%2F%2Fmiguelfeliciano.com)](http://miguelfeliciano.com)
 
+## 💥 Husband. Father. Dev. Builder of Freedom. Whiskey-Optimized.
 
-## I'm a Husband, Father, Developer, and Whiskey Drinker!
+- 🧠 20+ years of full-stack engineering experience
+- ⚔️ React, Next.js, TypeScript, Tailwind → that's my battleground
+- 🚀 Currently building SaaS tools like [ScanStack](https://scanstack.dev)
+- 📱 Dabbling in React Native for future app launches
+- 🧱 Mission: Build financial freedom through code, real estate, and investing
+- 🥋 Blue belt in jiu jitsu, lifting heavy, cold plunging, and grilling meat
+- 🦾 US Marine veteran turned dev—proof that nothing's off-limits
 
-- 💻 I’m currently working on several React projects!
-- 🏝 I work in Tampa, FL
-- 🤓 I’m looking to get into React Native
-- 🥅 Goals: Write a SAAS app
-- ⚡ Fun fact: I'm a US Marine veteran and didn't know anything about computers 20+ years ago.
+---
 
-### Connect with me:
+### 📡 Connect With Me
 
-[<img align="left" alt="miguelfeliciano.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="miguelfeliciano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MiguelFeliciano | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br clear="all" />
 
-### Languages and Tools:
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="ASP.NET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+---
 
+### 🛠️ Tools of the Trade
 
-[website]: http://miguelfeliciano.com
-[instagram]: https://instagram.com/miguelfeliciano
-[linkedin]: https://linkedin.com/in/miguelfeliciano
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
+<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
+<img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+
+<br clear="all" />
+
+---
+
+📈 *"Disciplined Savage. Code. Fight. Build. Repeat."*
+
+[website]: http://miguelfeliciano.com  
+[instagram]: https://instagram.com/miguelfeliciano  
+[linkedin]: https://linkedin.com/in/miguelfeliciano  

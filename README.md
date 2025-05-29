@@ -6,7 +6,7 @@
 
 - 🧠 20+ years of full-stack engineering experience
 - ⚔️ React, Next.js, TypeScript, Tailwind → that's my battleground
-- 🚀 Currently building SaaS tools like [ScanStack](https://scanstack.dev)
+- 🚀 Currently building SaaS tools like [ScanStack](https://scanstack.app)
 - 📱 Dabbling in React Native for future app launches
 - 🧱 Mission: Build financial freedom through code, real estate, and investing
 - 🥋 Blue belt in jiu jitsu, lifting heavy, cold plunging, and grilling meat
